@@ -1,0 +1,10 @@
+{
+    "public": {
+        "debug": 0
+    },
+    "private": {
+        "kadiraAppEndpoint": "",
+        "kadiraAppID": "",
+        "kadiraAppSecret": ""
+    }
+}
